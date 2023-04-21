@@ -4,8 +4,8 @@ Using Chrome Browser, the program automates the process for submitting QA Feedba
 ## Usage
  - ### Using compiled versions
     1. Download the compiled versions according to your Operating System. 
-        - [Windows]:(compiled/Windows.zip)
-        - [Linux]:(compiled/Linux.zip)
+        - [Windows](/compiled/Windows.zip)
+        - [Linux](compiled/Linux.zip)
         - MACOS version not available use raw version for MACOS.  
     2. Extract the files and edit `config.ini`. Provide Qalam ID and password. Other configurations can also be customized. See [configuration section](#configuration) for more information.
     3. For Linux users, give `Qalam Feedback Automation` executable permission using this command.  
